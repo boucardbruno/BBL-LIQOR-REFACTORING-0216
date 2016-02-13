@@ -1,0 +1,27 @@
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\bin\Debug\DojoRefactoring.exe.config
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\bin\Debug\DojoRefactoring.exe
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\bin\Debug\DojoRefactoring.pdb
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\bin\Debug\NFluent.dll
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\bin\Debug\NSubstitute.dll
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\bin\Debug\nunit.framework.dll
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\bin\Debug\NFluent.xml
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\bin\Debug\NSubstitute.xml
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\bin\Debug\nunit.framework.xml
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\obj\x86\Debug\DojoRefactoring.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\obj\x86\Debug\DojoRefactoring.exe
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer\C#\DojoRefactoring\obj\x86\Debug\DojoRefactoring.pdb
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\bin\Debug\DojoRefactoring.exe.config
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\obj\x86\Debug\DojoRefactoring.exe
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\obj\x86\Debug\DojoRefactoring.pdb
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\bin\Debug\DojoRefactoring.exe
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\bin\Debug\DojoRefactoring.pdb
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\bin\Debug\NFluent.dll
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\bin\Debug\NSubstitute.dll
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\bin\Debug\nunit.framework.dll
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\bin\Debug\NFluent.xml
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\bin\Debug\NSubstitute.xml
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\bin\Debug\nunit.framework.xml
+C:\Users\Bruno\Desktop\Paris JUG Event\Buggy Pricer.v0\C#\DojoRefactoring\obj\x86\Debug\DojoRefactoring.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\Paris JUG Event\Poser des tests sur code fermé aux tests\_backup\Buggy Pricer.v0\C#\DojoRefactoring\bin\Debug\DojoRefactoring.exe.config
+C:\Users\Bruno\Desktop\Paris JUG Event\Poser des tests sur code fermé aux tests\_backup\Buggy Pricer.v0\C#\DojoRefactoring\obj\x86\Debug\DojoRefactoring.exe
+C:\Users\Bruno\Desktop\Paris JUG Event\Poser des tests sur code fermé aux tests\_backup\Buggy Pricer.v0\C#\DojoRefactoring\obj\x86\Debug\DojoRefactoring.pdb
